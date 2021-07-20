@@ -22,7 +22,7 @@ require (
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/jaegertracing/jaeger v1.23.0
+	github.com/jaegertracing/jaeger v1.24.0
 	github.com/knadh/koanf v1.1.1
 	github.com/leoluk/perflib_exporter v0.1.0
 	github.com/magiconair/properties v1.8.5
@@ -34,7 +34,7 @@ require (
 	github.com/prometheus/common v0.29.0
 	github.com/prometheus/prometheus v1.8.2-0.20210621150501-ff58416a0b02
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
-	github.com/rs/cors v1.7.0
+	github.com/rs/cors v1.8.0
 	github.com/shirou/gopsutil v3.21.6+incompatible
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cast v1.3.1
